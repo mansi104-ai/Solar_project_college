@@ -1,0 +1,12 @@
+names:
+- Bird-dropping
+- Physical-damage
+- Dusty
+- Clean
+- Electric-damage
+- Electrical-damage
+- Snow-covered
+nc: 7
+test: ./../Data/test/images
+train: ./../Data/train/images
+val: ./../Data/val/images

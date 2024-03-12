@@ -1,0 +1,1 @@
+This file contains the weights and yaml model instantiation for solar project
